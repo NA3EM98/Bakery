@@ -1,0 +1,269 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family:"Alegreya" ;
+}
+.nav-p{
+    display: inline-block;
+    margin-right: 170px;
+    margin-top: -5px;
+}
+.home{
+    background-color: aliceblue;
+    background-image: url(mo.jpg);
+    width: 100%;
+    background-size: 100% 100%;
+    height:750px ;
+    display: inline-block;
+    text-align: right;
+    /* float: right; */
+}
+.home img{
+    width: 179.6px;
+    height: 48px;
+    margin-right:38%;
+    margin-top: 20px;
+    display: inline-block;
+}
+.home img:hover{
+    transform: none;
+    background-image: url(../images/bakery-color.png);
+}
+.nav-p p{
+    display: inline-block;
+    font-size: 20px;
+    padding-right: 10px;
+    color: white;
+}
+.intro{
+    text-align: center;
+    margin-top: 130px;
+    color: white;
+    font-size: 32px;
+    font-family: "Alegreya";
+}
+.kim{
+    font-size: 22px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.more{
+    width: 113.5px;
+    height: 53px;
+    background-color: #8e7754;
+    color: white;
+    font-family: "Alegreya";
+    font-size: 18px;
+    font-weight: 600;
+}
+.lie{
+    width: 113.5px;
+    height: 53px;
+    background:none;
+    border: solid;
+    color: white;
+    font-family: "Alegreya";
+    font-size: 18px;
+    font-weight: 600;
+}
+/* .mk{
+    margin-top: 150px;
+    margin-left: 100px;
+} */
+/* .side{
+    display: inline-block; 
+} */
+
+.side{
+    height: 500px;
+    width: 565px;
+    margin-left:150px;
+    margin-top:100px;
+    margin-right: 100px;
+float: left;
+}.mk{
+    margin-top: 150px;
+    font-family: "Alegreya";
+    font-weight: 100px;
+font-size: 18px;
+}
+.mk .leaf{
+    width: 44px;
+    height: 44px;
+    float: left;
+    margin-top: 25px;
+}
+.mk .leafp{
+    margin-top: 55px;
+}
+.mk .people{
+    width: 44px;
+    height: 44px;
+    float: left;
+    margin-top: 5px; 
+}
+.mk .peoplep{
+margin-top: 35px;
+margin-left: 3px;
+}
+.mk .heart{
+    width: 44px;
+    height: 44px;
+    float: left;
+    margin-top: 5px; 
+}
+.mk .heartp{
+    margin-top: 35px;
+margin-left: 3px;
+}
+.mk .check{
+    width: 44px;
+    height: 44px;
+    float: left;
+    margin-top: 5px; 
+}
+.mk .checkp{
+    margin-top: 35px;
+    margin-left: 3px; 
+}
+.clear{
+    clear: both;
+}
+.third{
+    background-color: rgb(248, 248, 248);
+    height: 600px;
+    margin-top: 150px;
+}
+.thirdk{
+    float:left ;
+    padding: 90px 139.4px 90px 139.6px;
+    font-family: "Alegreya";
+    font-size: 18px;
+    margin-top: 110px;
+}
+.third img{
+    width: 562px;
+    height: 452px;
+    margin-top: 100px;
+    margin-left: -50px;
+}
+.clearo{
+    clear: both;
+}
+.fourth{
+    text-align: center;
+    font-family: "Alegreya";
+    margin-top: 100px;
+}
+.images{
+    margin-top: 50px;
+}
+.fourth img{
+width: 378.3px;
+height: 315px;
+margin-right: 50px;
+}
+.fourth div{
+    display: inline-block;
+    text-align: center;
+    
+}
+.fifth{
+    background-color: #F8F8F8;
+    font-family: "Alegreya";
+    height: 700px;
+    margin-top: 65px;
+}
+.fifth .fifp{
+    float: left;
+    margin-left: 155px;
+    margin-top: 100px;
+}
+.mapouter{
+    display: inline-block;
+}
+.fifth img{
+    width: 35px;
+    height: 35px;
+    float: left;
+    margin-top: -5px; 
+    background-color: #8E7754;
+    border-radius: 50%;
+    margin-right:10px;
+
+}
+.mokli{
+    margin-top: 25px;
+}
+iframe{
+    margin-top: 70px;
+    margin-left: 25%;
+}
+.mokli div + div {
+    margin-top: 42px;
+}
+.sixth{
+    background-color: #403D38;;
+    background-image: url(/images/contact-details-map.png);
+    background-repeat: no-repeat;
+    background-position: 92% 65%;
+   height: 450px;
+   margin-top: -85px;
+}
+.sixth div{
+    display: inline-block;
+    color: white;
+    }
+    .sixth p{
+        font-family:"Alegreya" ;
+    }
+.pol{
+    height: 440px;
+    color: #F8F8F8;
+    
+}
+.sixth li{
+   padding-top: 19px;
+}
+.sixth img{
+    width: 35px;
+    height: 35px;
+    float: left;
+    margin-top: -5px; 
+    margin-right:10px;
+
+}
+.sixth .koij div{
+    display: block;
+}
+
+.lpok{
+    padding-left: 182px;
+    padding-top: 43px;
+}
+.lpok div{
+    margin-right: 60px;
+}
+h3{
+    font-weight: 100px;
+    font-size: 22px;
+}
+.polkj{
+   vertical-align: top;}
+  #dcd{
+    background-color:rgb(53, 51, 48);
+    text-align: center;
+    padding-top: 60px;
+    color: gray;
+    height: 250px;
+   }
+  #dcd .ddc img{
+    width: 40px;
+    height: 40px;
+    /* float: left;
+    margin-top: -5px;  */
+    background-color: #403D38;
+    border-radius: 50%;
+    margin-right:5px;
+
+}
